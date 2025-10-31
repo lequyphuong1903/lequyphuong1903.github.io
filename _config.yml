@@ -23,10 +23,10 @@ repository               : "lequyphuong1903/lequyphuong1903.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Quy Phuong Le"
-  pronouns         : # example: "she/her"  
-  bio              : "MS Student at NBM Lab"
+  pronouns         : # "he/him"  
+  bio              : "Research Assistant at NBM Lab"
   location         : "Namgu, Busan, Republic of Korea"
   employer         : "Pukyong National University"
   uri              : # URL

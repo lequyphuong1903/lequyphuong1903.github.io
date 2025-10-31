@@ -10,13 +10,10 @@ redirect_from:
 
 # About
 
-Quy Phuong Le received the B.E. degree in Mechatronic Engineering from Ho Chi Minh City University of Technology, Ho Chi Minh, Vietnam, in 2023. He is pursuing a master's degree in Industry 4.0 Convergence Bionics Engineering, Pukyong National University, Busan, Republic of Korea. His research interests include IoT systems, embedded systems, machine learning, signal processing, and data science.
+![Profile Image](/images/profile.png){: .align-right width="200px"}
+I currently work in the NanoBioMechanics Laboratory (NBM Lab) under the supervision of Professor Junghwan Oh. My research focuses on IoT systems, embedded systems, biomedical signal processing, and machine learning, with applications in smart wearable and healthcare technologies.
 
-🔭 I’m currently working on IoT system, Biomedical Signal Processing, Machine Learning.
-
-🌱 I’m currently learning Smart Wearable and Sensors Applications for Healthcare.
-
-📫 I'm also interested in assisting others on their path in the world of Machine Learning and academia.
+Beyond his research, I'm passionate about exploring data-driven methods for healthcare innovation and enjoys supporting others in their learning journey in machine learning and academic research.
 
 # Education
 * M.S. in Industry 4.0 Convergence Bionics Engineering, Pukyong National University, 2026
