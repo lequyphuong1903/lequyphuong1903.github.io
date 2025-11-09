@@ -23,9 +23,9 @@ Beyond his research, I'm passionate about exploring data-driven methods for heal
 * Languages: C/C++, C#, Python, Matlab
 * Machine Learning Frame Work: PyTorch, TensorFlow
 * Model Deployment & Optimization: Quantization, ONNX, TFLite, TensorRT, Edge AI
-* Tools: Docker, Git, CUDA, TensorBoard
-* Application Development: Mobile Applications (iOS, Android), WinForm
-* Embedded Systems: MCU, PCB Design, Analog Front End, Low-Power Design, RTOS
+* Tools: Bash, Docker, Git, CUDA, TensorBoard
+* Application Development: WinForm, Mobile Applications (iOS, Android)
+* Embedded Systems: MCU, PCB Design, Analog Front End, RTOS
 * IoT & Cloud Integration: Firebase, Azure, MQTT, TCP/IP, UDP
 
 Publications
