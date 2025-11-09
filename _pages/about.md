@@ -11,7 +11,7 @@ redirect_from:
 # About
 
 ![Profile Image](/images/profile.png){: .align-right width="200px"}
-I currently work in the NanoBioMechanics Laboratory (NBM Lab) under the supervision of Professor Junghwan Oh. My research focuses on IoT systems, embedded systems, biomedical signal processing, and machine learning, with applications in smart wearable and healthcare technologies.
+I currently work in the [NanoBioMechanics Laboratory](https://www.nbmlab.com) (NBM Lab) under the supervision of [Professor Junghwan Oh](https://www.nbmlab.com/members). My research focuses on IoT systems, embedded systems, biomedical signal processing, and machine learning, with applications in smart wearable and healthcare technologies.
 
 Beyond his research, I'm passionate about exploring data-driven methods for healthcare innovation and enjoys supporting others in their learning journey in machine learning and academic research.
 
