@@ -3,6 +3,7 @@ title: "Golf Swing Measurement with Real-Time Sweet Spot Detection using High-Sp
 collection: publications
 category: manuscripts
 permalink: /publication/2025-golfvision
+pub_status: accepted
 excerpt: 
 date: 2025-12-10
 venue: 'Measurement Science and Technology'

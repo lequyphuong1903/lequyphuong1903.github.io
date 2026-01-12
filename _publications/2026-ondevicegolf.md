@@ -6,6 +6,7 @@ permalink: /publication/2026-ondevicegolf
 excerpt: 
 date: 2026-01-10
 venue: 'IEEE Sensors Journal'
+pub_status: accepted
 slidesurl: #
 paperurl: #
 bibtexurl: #
