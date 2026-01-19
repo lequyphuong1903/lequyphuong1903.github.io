@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2026-ondevicegolf
 excerpt: 
-date: 2026-01-10
+date: 2026-01-20
 venue: 'IEEE Sensors Journal'
 pub_status: accepted
 slidesurl: #
